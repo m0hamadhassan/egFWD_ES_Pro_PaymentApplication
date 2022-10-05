@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\moham\Desktop\fwd\PaymentApplication\PaymentApplication\main.c(16,3): warning C4013: 'gets' undefined; assuming extern returning int
+  PaymentApplication.vcxproj -> C:\Users\moham\Desktop\fwd\PaymentApplication\x64\Debug\PaymentApplication.exe
